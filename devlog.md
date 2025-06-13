@@ -19,10 +19,12 @@ Thank god i passed everything, finally have got time to continue this project.
 
 
 ## Parts
+
 Extruder:
  - Sherpa mini
  - Dragon burner
  - XC1 hotend
+
 Base:
  - 1x Nema 17
  - 200mm diamater float glass
