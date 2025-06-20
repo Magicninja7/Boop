@@ -14,7 +14,9 @@ And more research on how to do the z axis. The problem with the design in the vi
 # Day 3 (13.06.2025)
 Thank god i passed everything, finally have got time to continue this project. 
 
-
+# Day 4 (20.06.2025)
+I completed the whole extruder part, by using the sherpa mini with the xc1 hotend, combined with the dragon burner. Starting on the x axis, i have completed the design on paper, now i only need to bring it onto fusion. I also will be using a 2x sliding rods, and 2x lead screws for the y axis, but i will add that after i finish the x axis.
+![making x axis](https://hc-cdn.hel1.your-objectstorage.com/s/v3/372ce80ef81b43cca59c0e1061b319702543520d_image.png)
 
 
 
@@ -29,5 +31,14 @@ Base:
  - 1x Nema 17
  - 200mm diamater float glass
 
+x axis:
+ - 1x [v-rail](https://us.openbuilds.com/v-slot-20x20-linear-rail/)
+ - 2x [v-rail carriage](https://us.openbuilds.com/mini-v-gantry-kit/?searchid=0&search_query=v+rail)
+
+y axis:
+ - 2x [lead screw](https://us.openbuilds.com/8mm-metric-lead-screw/)
+ - 2x [nut block](https://us.openbuilds.com/anti-backlash-nut-block/)
+ - 2x  sliding rod
+ - 
 
 
