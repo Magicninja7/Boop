@@ -18,7 +18,8 @@ Thank god i passed everything, finally have got time to continue this project.
 I completed the whole extruder part, by using the sherpa mini with the xc1 hotend, combined with the dragon burner. Starting on the x axis, i have completed the design on paper, now i only need to bring it onto fusion. I also will be using a 2x sliding rods, and 2x lead screws for the y axis, but i will add that after i finish the x axis.
 ![making x axis](https://hc-cdn.hel1.your-objectstorage.com/s/v3/372ce80ef81b43cca59c0e1061b319702543520d_image.png)
 
-
+# Day 5 (21.06.2025)
+Im continuing my work on the x axis.
 
 ## Parts
 
