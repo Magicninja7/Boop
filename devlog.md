@@ -22,9 +22,12 @@ I completed the whole extruder part, by using the sherpa mini with the xc1 hoten
 Im continuing my work on the x axis. Found and added pulleys needed for the design (6 total), added the vrail and carriage). All designed by me, its why it took soo long
 ![carriage](https://hc-cdn.hel1.your-objectstorage.com/s/v3/70aa4703986988fba9e1ea713c8fe4a804063fc4_image.png)
 
-# Day 6 (25.06.2025)
+# Day 6 (25.06.2025) ~6 hours
 Today i added a pulley at the end of the vrail (it isnt connected yet tho, im yet to do that). I also added a second pulley at the other end, it will be moving the extruder. In here, i created a part that will hold it, it fit snugggly into the vrail, with 0.1mm margin. It also will have a whole in the middle (through the whole thing, including the vrail), to slide in a blot, so the whole thing doesnt move or shake. It also has 2 ball bearings, with inside diamater of 20mm, the same as the pulley.
 ![wroom](https://hc-cdn.hel1.your-objectstorage.com/s/v3/41f6263157ca5974daddcb895f60e29b0f53bf99_image.png)
+![up!](https://hc-cdn.hel1.your-objectstorage.com/s/v3/1a3e2a0ae8ec6cad5d7c275875ece0b456965c45_image.png)
+
+# Day 7 (26.06.2025)
 
 
 ## Parts
