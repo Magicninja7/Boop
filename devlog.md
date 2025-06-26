@@ -28,7 +28,7 @@ Today i added a pulley at the end of the vrail (it isnt connected yet tho, im ye
 ![up!](https://hc-cdn.hel1.your-objectstorage.com/s/v3/1a3e2a0ae8ec6cad5d7c275875ece0b456965c45_image.png)
 
 # Day 7 (26.06.2025)
-
+I added the holder for the bottom pulley, and redid the holder for the front pulley (it had 0 margin, and not it has 0.05 margin. Idk if its the gap is big enough, but its a cheap 3d printed part, so no big deal. I also did research on how exactly a mount should look, since i need one to connect my sherpa with xc1. I decided on the 4010 axial to provide general flow onto the heatsink, and a radial fan (5015) for the tip of the nozzle. I will want to make it as light as possible, but will likely need an airduct to channel the air, but since its plastic it shouldnt add much
 
 ## Parts
 
@@ -41,9 +41,16 @@ Base:
  - 1x Nema 17
  - 200mm diamater float glass
 
+mount scherpa x xc1:
+ - 4010 axial fan (heatsink)
+ - 5015 radial fan (nozzle tip)
+
 x axis:
  - 1x [v-rail](https://us.openbuilds.com/v-slot-20x20-linear-rail/)
  - 2x [v-rail carriage](https://us.openbuilds.com/mini-v-gantry-kit/?searchid=0&search_query=v+rail)
+ - 8x8x24 ball bearing [(back pulley)](https://modelemax.pl/en/bearings/19394-ball-bearing-8-24-8mm-628zz)
+ - 20x12x42 ball bearing [(front pulley)](https://www.fallshaw.com.au/products/SPBRGQ6004X20)
+ - 20mm diamater rod (front pulley causes spin)
 
 y axis:
  - 2x [lead screw](https://us.openbuilds.com/8mm-metric-lead-screw/)
