@@ -31,6 +31,12 @@ Today i added a pulley at the end of the vrail (it isnt connected yet tho, im ye
 I added the holder for the bottom pulley, and redid the holder for the front pulley (it had 0 margin, and not it has 0.05 margin. Idk if its the gap is big enough, but its a cheap 3d printed part, so no big deal. I also did research on how exactly a mount should look, since i need one to connect my sherpa with xc1. I decided on the 4010 axial to provide general flow onto the heatsink, and a radial fan (5015) for the tip of the nozzle. I will want to make it as light as possible, but will likely need an airduct to channel the air, but since its plastic it shouldnt add much.
 ![the rail n carriage n pulley](https://hc-cdn.hel1.your-objectstorage.com/s/v3/d8acca0592458ddcab6f053c99e62bb08ce66d61_image.png)
 
+# Day 8 (26-27.06.2025)
+I created the mount, connecting the 4010 fan, with the sherpa and hotend. The blank space opposite of the fan, will be filled by a material mesh i have at home. It currently doesnt have a mount, since i plan to add another part, made with cnc, or bought online, where i will insert the 20mm diamater rod, and then screw it to the mount.
+![fan view](https://hc-cdn.hel1.your-objectstorage.com/s/v3/2508f1e8695fd41765b368e827479a59f9b342d5_image.png)
+![other view](https://hc-cdn.hel1.your-objectstorage.com/s/v3/9592b0fc1e683cba7c2001ac31872d8cbccd3126_image.png)
+
+
 ## Parts
 
 Extruder:
