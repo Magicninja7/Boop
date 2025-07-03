@@ -36,6 +36,9 @@ I created the mount, connecting the 4010 fan, with the sherpa and hotend. The bl
 ![fan view](https://hc-cdn.hel1.your-objectstorage.com/s/v3/2508f1e8695fd41765b368e827479a59f9b342d5_image.png)
 ![other view](https://hc-cdn.hel1.your-objectstorage.com/s/v3/9592b0fc1e683cba7c2001ac31872d8cbccd3126_image.png)
 
+# Day 9 (03.06.2025)
+I made a mount, however its horrible. takes up too much space.
+![mount](https://hc-cdn.hel1.your-objectstorage.com/s/v3/e07c699659f6525c0f1d4e2080aa7bc1544b1b38_image.png)
 
 ## Parts
 
