@@ -39,13 +39,21 @@ I created the mount, connecting the 4010 fan, with the sherpa and hotend. The bl
 # Day 9 (03.06.2025) ~5 hours
 I made a mount, however its horrible. takes up too much space.
 ![mount](https://hc-cdn.hel1.your-objectstorage.com/s/v3/e07c699659f6525c0f1d4e2080aa7bc1544b1b38_image.png)
+
 Now it looks like this! It has a space to screw it in, on its 4 corners, and a screw to fit into the rod, which is also custom made!
 ![mount_only](https://hc-cdn.hel1.your-objectstorage.com/s/v3/9e69a03c5e762875b92929ab0fd76a3cacce132a_image.png)
+
 I also atlast connected it to the rod, and the x axis is completed!
 ![whole thing](https://hc-cdn.hel1.your-objectstorage.com/s/v3/76bc2263e75de2e0db6af93f68954d17262a0670_image.png)
 
-# Day 10 (04.06.2025) 
-Now time for the y axis!
+# Day 10 (06.06.2025) 
+Now i added a belt and created new pulleys for the x axis!
+![belt](https://hc-cdn.hel1.your-objectstorage.com/s/v3/36cc73dc3064dfa2324cb673c559887b671a4b2e_image.png)
+
+
+
+
+
 
 ## Parts
 
