@@ -52,8 +52,10 @@ Now i added a belt and created new pulleys for the x axis!
 I has to redo the belt, bc i needed to increase the length of the xaxis rail by 100mm. I also added 2 plates on either side, to hold all the pulleys, and positioned the nut blocks, made screw holes for it. Also put the nema17 motors, but theyre not yet mounted.
 ![flippy flippy flap flap](https://hc-cdn.hel1.your-objectstorage.com/s/v3/06581ee53c32a6ae67a3a4bd5f4e0dc0f178b690_image.png)
 
-
-
+# Day 11 (07.07.2025) ~4 hours
+Today i added holders for both sides of the xaxis, which hold everything together. And put the nema17 stepper motors for 2 pulleys, and 2 lead screwws they'll be powering. I have decided on putting both on one side, since putting 1 per side would make it extremely akward to design, and would unevenly distribute weight in a way thats harder to fix (now, i can just put weights/needed electronics in the other side). The heavier side also has a linear rail.
+![left pic](https://hc-cdn.hel1.your-objectstorage.com/s/v3/172792843c1417fa5a70a793de73f04a4cb52305_image.png)
+![right pic](https://hc-cdn.hel1.your-objectstorage.com/s/v3/836932efcddf6ad705afbee4aa22ea81106bc440_image.png)
 
 
 ## Parts
