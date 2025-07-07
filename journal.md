@@ -49,7 +49,8 @@ I also atlast connected it to the rod, and the x axis is completed!
 # Day 10 (06.06.2025) 
 Now i added a belt and created new pulleys for the x axis!
 ![belt](https://hc-cdn.hel1.your-objectstorage.com/s/v3/36cc73dc3064dfa2324cb673c559887b671a4b2e_image.png)
-
+I has to redo the belt, bc i needed to increase the length of the xaxis rail by 100mm. I also added 2 plates on either side, to hold all the pulleys, and positioned the nut blocks, made screw holes for it. Also put the nema17 motors, but theyre not yet mounted.
+![flippy flippy flap flap](https://hc-cdn.hel1.your-objectstorage.com/s/v3/06581ee53c32a6ae67a3a4bd5f4e0dc0f178b690_image.png)
 
 
 
