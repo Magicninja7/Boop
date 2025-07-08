@@ -57,6 +57,13 @@ Today i added holders for both sides of the xaxis, which hold everything togethe
 ![left pic](https://hc-cdn.hel1.your-objectstorage.com/s/v3/172792843c1417fa5a70a793de73f04a4cb52305_image.png)
 ![right pic](https://hc-cdn.hel1.your-objectstorage.com/s/v3/836932efcddf6ad705afbee4aa22ea81106bc440_image.png)
 
+# Day 12 (08.07.2025) ~4 hours
+Now i added holders for the 3 stepper motors on the bottom, and added a holder for thr rail. I also started the protectors for the screws, and recreated a pillow bearing. Its still a wip, but i need only to add the top, reinforce it, and connect it to the linear rail holder.
+![side](https://hc-cdn.hel1.your-objectstorage.com/s/v3/76fe732393d3ef8fbc33347f86dd97cef641fcea_image.png)
+![bottom](https://hc-cdn.hel1.your-objectstorage.com/s/v3/a5e483fd209316c77a3b95b49a56a186f31a1845_image.png)
+
+
+
 
 ## Parts
 
