@@ -1,4 +1,4 @@
-This is a devlog for this 3d printer im making!
+<img width="1295" height="771" alt="image" src="https://github.com/user-attachments/assets/830788f7-846e-45e6-bfb3-46a36bd605fa" />This is a devlog for this 3d printer im making!
 (im keeping this casual)
 
 # Day 0 (24-25.05.25) ~15 hours
@@ -62,35 +62,38 @@ Now i added holders for the 3 stepper motors on the bottom, and added a holder f
 ![side](https://hc-cdn.hel1.your-objectstorage.com/s/v3/76fe732393d3ef8fbc33347f86dd97cef641fcea_image.png)
 ![bottom](https://hc-cdn.hel1.your-objectstorage.com/s/v3/a5e483fd209316c77a3b95b49a56a186f31a1845_image.png)
 
+# Day 13/14  (09.07.2025 - 21.07.2025) ~10 hours
+This 2 weeks i added classic rail, to stabilise the build, as well as adding 3d-printable supports for it. The rail one, is connected to the screw one, and those are connected to the nema17 holder at the base, and to the other linear screw holder at the top.
+![left profil](https://hc-cdn.hel1.your-objectstorage.com/s/v3/afa1a6cf36663649c6647140f00b7b490508e361_image.png)
+![right profil](https://hc-cdn.hel1.your-objectstorage.com/s/v3/1f531ddfce397e98c1b782a9d401117dac19d849_image.png)
+And i also upgraded the holders for the 2 nema17 i have at the bottom, now its 1 3dprintable part for both motors, which o directly screwed to the base in 8 places, connected to the linear screw and classic rail holders, via screws, and is held in place by an additional metal plate, at its top. I also added the whole base and space in the middle for parts such as: control board, psu, stepper drivers, cable managment, etc.
+![plate](https://hc-cdn.hel1.your-objectstorage.com/s/v3/068c294721ea825d776aedf66a613d9a2d2d2a94_image.png)
 
+Parts:
 
-
-## Parts
-
-Extruder:
- - Sherpa mini
- - Dragon burner
- - XC1 hotend
-
-Base:
- - 1x Nema 17
- - 200mm diamater float glass
-
-mount scherpa x xc1:
- - 4010 axial fan (heatsink)
- - 5015 radial fan (nozzle tip)
-
-x axis:
- - 1x [v-rail](https://us.openbuilds.com/v-slot-20x20-linear-rail/)
- - 2x [v-rail carriage](https://us.openbuilds.com/mini-v-gantry-kit/?searchid=0&search_query=v+rail)
- - 8x8x24 ball bearing [(back pulley)](https://modelemax.pl/en/bearings/19394-ball-bearing-8-24-8mm-628zz)
- - 20x12x42 ball bearing [(front pulley)](https://www.fallshaw.com.au/products/SPBRGQ6004X20)
- - 20mm diamater rod (front pulley causes spin)
-
-y axis:
- - 2x [lead screw](https://us.openbuilds.com/8mm-metric-lead-screw/)
- - 2x [nut block](https://us.openbuilds.com/anti-backlash-nut-block/)
- - 2x  sliding rod
- - 
-
+| Part | Qty | total | link |
+| ---- | --- | ----- | ---- |
+| sherpa mini | 1 | 34 | [Ali](https://pl.aliexpress.com/item/1005002487727392.html) |
+| vslot rail | 2 | 16 | [Ali](https://pl.aliexpress.com/i/1005003311298946.html?gatewayAdapt=glo2pol)
+| nema17+screw | 1 | 50 | [Ali](https://www.aliexpress.us/item/1005005575285492.html?mp=1&gatewayAdapt=glo2usa)
+| nema17 | 3 | 44 | [Ali](https://www.aliexpress.us/item/1005007721263858.html?algo_exp_id=2c44caf6-5f1d-4c0f-b662-e554663c4572-0&pdp_ext_f=%7B%22order%22%3A%2224%22%2C%22eval%22%3A%221%22%7D&pdp_npi=4%40dis!USD!14.67!14.67!!!14.67!14.67!%40211b653717531339946814128ed723!12000041973125480!sea!PL!6049391261!X&curPageLogUid=ditWgogbyW23&utparam-url=scene%3Asearch%7Cquery_from%3A)
+| skr3+drivers | 1 | 77 | [Ali](https://www.aliexpress.com/item/1005007540045155.html?algo_exp_id=db2c2344-aa37-43bd-b1af-e7c3de7a9108-0&pdp_ext_f=%7B%22order%22%3A%22145%22%2C%22eval%22%3A%221%22%2C%22orig_sl_item_id%22%3A%221005007540045155%22%2C%22orig_item_id%22%3A%221005006043539516%22%7D&pdp_npi=4%40dis!USD!68.46!76.98!!!489.02!549.81!%40211b804117531342587678427e9c93!12000041211841733!sea!PL!6049391261!X&curPageLogUid=EAQ1yuQyuRXg&utparam-url=scene%3Asearch%7Cquery_from%3A)
+| lrs-350-24 | 1 | 35 | [Ali](https://www.aliexpress.com/item/1005006104414563.html?algo_exp_id=ed786665-9417-44ed-91e2-d2bbe9810003-0&pdp_ext_f=%7B%22order%22%3A%22145%22%2C%22eval%22%3A%221%22%7D&pdp_npi=4%40dis!USD!35.47!35.47!!!253.36!253.36!%40211b628117531347833686697e80ff!12000035765142564!sea!PL!6049391261!X&curPageLogUid=mk6m5iFwq7MV&utparam-url=scene%3Asearch%7Cquery_from%3A)
+| pillow-bearing | 2 | 12 | [Ali](https://pl.aliexpress.com/item/1005008115694493.html?aem_p4p_detail=202507081114222547105643252920009348574&algo_exp_id=7769a70f-dea9-412a-9511-ebeb2c50ad36-0&pdp_ext_f=%7B%22order%22%3A%22-1%22%2C%22eval%22%3A%221%22%7D&pdp_npi=4%40dis!PLN!43.90!22.39!!!84.80!43.25!%402103985c17519984621601810e1f54!12000043851029398!sea!PL!0!ABX&curPageLogUid=DwaALHE42JiJ&utparam-url=scene%3Asearch%7Cquery_from%3A&search_p4p_id=202507081114222547105643252920009348574_1)
+| pulley | 2 | 3 | [Ali](https://www.aliexpress.us/item/1005004314084512.html?pdp_npi=4%40dis!USD!US%20%241.33!US%20%241.13!!!1.33!1.13!%402101585f17218179467507717e6f09!12000034179345936!sh!HK!3408833611!X&gatewayAdapt=glo2usa%5D)
+| pulley no-teeth | 4 | 12 | [Ali](https://www.aliexpress.us/item/1005004314084512.html?pdp_npi=4%40dis!USD!US%20%241.33!US%20%241.13!!!1.33!1.13!%402101585f17218179467507717e6f09!12000034179345936!sh!HK!3408833611!X&gatewayAdapt=glo2usa%5D)
+| back-pulley-xaxis | 1 | 2 | [Ali](https://www.aliexpress.us/item/32817328238.html?algo_exp_id=2e5559f6-0e2b-4699-af66-2900a6241a77-0&pdp_npi=4%40dis!USD!0.83!0.80!!!0.83!0.80!%402141069c17218103868312197ecd23!12000030774036536!sea!HK!3408833611!&curPageLogUid=WzjkJAxiIMiS&utparam-url=scene%3Asearch%7Cquery_from%3A)
+| big-xaxis-pulley | 1 | 5 | [Ali](https://www.fallshaw.com.au/products/SPBRGQ6004X20)
+| bearing-uni | 4 | 5 | [Ali](https://modelemax.pl/en/bearings/19394-ball-bearing-8-24-8mm-628zz)
+| gantry_vslot | 2 | 18 | [Ali](https://pl.aliexpress.com/item/4000252044823.html?gatewayAdapt=glo2pol)
+| 4010 fan | 1 | 4 | [Ali](https://pl.aliexpress.com/item/1005003462239029.html?aem_p4p_detail=202507211504023798993448239120006157034&algo_exp_id=70593ec9-93e4-496f-9f99-32fa072602fd-1&pdp_ext_f=%7B%22order%22%3A%22406%22%2C%22eval%22%3A%221%22%7D&pdp_npi=4%40dis!USD!3.11!3.11!!!3.11!3.11!%402101d9ef17531354426868570e953a!12000032185228739!sea!PL!6049391261!X&curPageLogUid=K5zZeirITV9z&utparam-url=scene%3Asearch%7Cquery_from%3A&search_p4p_id=202507211504023798993448239120006157034_2)
+| m4 screws+nuts | 12 | 2 | local_shop
+| m3 screws+nuts | 8 | 2 | local_shop
+| m2 wcrews+nutss | 4 | 1 | local_shop
+| m5 screws+nuts | 30 | 4 | local_shop
+| m8 screws+nuts | 4 | 4 | local_shop
+| nutblock | 2 | 6 | [Ali](https://pl.aliexpress.com/item/1005004033091930.html?aem_p4p_detail=2025072115104714766776210775120006156124&algo_exp_id=6acb0970-a436-473f-83ce-022215f6bc8f-5&pdp_ext_f=%7B%22order%22%3A%2230%22%2C%22eval%22%3A%221%22%7D&pdp_npi=4%40dis!USD!2.58!2.58!!!18.45!18.45!%402103247417531358475558797efead!12000027807086483!sea!PL!6049391261!X&curPageLogUid=3HUxqKNu2SHZ&utparam-url=scene%3Asearch%7Cquery_from%3A&search_p4p_id=2025072115104714766776210775120006156124_6) 
+| xc1 hotend | 1 | 2 | [Ali](https://pl.aliexpress.com/item/1005007319888761.html)
+| jumper cables (m2m & f2f & m2f) | 40 each | 8 | [Botland](https://botland.com.pl/przewody-polaczeniowe-zensko-meskie/19621-zestaw-przewodow-polaczeniowych-justpi-zensko-meskie-20cm-40szt-5903351243025.html) note: after customs aliexpress is actually more expensive + m2m and f2f connectors cost the same - ~2.5$)
+| pcb | 1 | n/d | [jlcpcb](https://jlcpcb.com/)
 
