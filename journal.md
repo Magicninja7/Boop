@@ -1,4 +1,4 @@
-<img width="1295" height="771" alt="image" src="https://github.com/user-attachments/assets/830788f7-846e-45e6-bfb3-46a36bd605fa" />This is a devlog for this 3d printer im making!
+This is a devlog for this 3d printer im making!
 (im keeping this casual)
 
 # Day 0 (24-25.05.25) ~15 hours
