@@ -88,8 +88,9 @@ Parts:
 | gantry_vslot | 2 | 18 | [Ali](https://pl.aliexpress.com/item/4000252044823.html?gatewayAdapt=glo2pol)
 | 4010 fan | 1 | 4 | [Ali](https://pl.aliexpress.com/item/1005003462239029.html?aem_p4p_detail=202507211504023798993448239120006157034&algo_exp_id=70593ec9-93e4-496f-9f99-32fa072602fd-1&pdp_ext_f=%7B%22order%22%3A%22406%22%2C%22eval%22%3A%221%22%7D&pdp_npi=4%40dis!USD!3.11!3.11!!!3.11!3.11!%402101d9ef17531354426868570e953a!12000032185228739!sea!PL!6049391261!X&curPageLogUid=K5zZeirITV9z&utparam-url=scene%3Asearch%7Cquery_from%3A&search_p4p_id=202507211504023798993448239120006157034_2)
 | m4 screws+nuts | 12 | 2 | local_shop
-| m3 screws+nuts | 8 | 2 | local_shop
+| m3 screws+nuts | 10 | 2 | local_shop
 | m2 wcrews+nutss | 4 | 1 | local_shop
+| m2.5 screw | 2 | 1 | local_shop
 | m5 screws+nuts | 30 | 4 | local_shop
 | m8 screws+nuts | 4 | 4 | local_shop
 | gt2 belt | 1 | 8 | [Ali](https://www.aliexpress.us/item/10000115962505.html?algo_exp_id=3e07768a-d464-400f-8013-e23772bbed3e-1&pdp_ext_f=%7B%22order%22%3A%2231%22%2C%22eval%22%3A%221%22%7D&pdp_npi=4%40dis!USD!11.41!11.41!!!11.41!11.41!%402101c5bf17531364982723715eb8ce!12000025023391194!sea!PL!6049391261!X&curPageLogUid=kVrNqzgCRbOD&utparam-url=scene%3Asearch%7Cquery_from%3A)
