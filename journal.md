@@ -69,6 +69,23 @@ This 2 weeks i added classic rail, to stabilise the build, as well as adding 3d-
 And i also upgraded the holders for the 2 nema17 i have at the bottom, now its 1 3dprintable part for both motors, which o directly screwed to the base in 8 places, connected to the linear screw and classic rail holders, via screws, and is held in place by an additional metal plate, at its top. I also added the whole base and space in the middle for parts such as: control board, psu, stepper drivers, cable managment, etc.
 ![plate](https://hc-cdn.hel1.your-objectstorage.com/s/v3/068c294721ea825d776aedf66a613d9a2d2d2a94_image.png)
 
+
+# Day 15 (25.07.2025) ~8 hours
+A lot of stuff done today!
+it looks like this now! I added a sliding rod on the opposite side if the x axis, relative to the classic rail. Now, it will definitely be stable, so to not make it ugly, i added a few cutouts on the plate! Said plate is connected to the sliding rod, via 2 adapters and LM8uu bearings. 
+On the other side, i completely revamped the printbet, now its more stable, slimmer, and cheaper. The gear holding the belt, is connected to the printbed. It uses 1 bearing with 29mm inside radius, which is used to insert a static rod from the base. The base was also modernised.
+![1](https://hc-cdn.hel1.your-objectstorage.com/s/v3/5bf1bf3ae849c6be6bf062fcd17224e297cf533a_image.png)
+![2](https://hc-cdn.hel1.your-objectstorage.com/s/v3/5a9005942a7f8b23ce74b5f4bf5869f9fd0993f0_image.png)
+![3](https://hc-cdn.hel1.your-objectstorage.com/s/v3/a211e7b24034b73853cd5268d744caf32de5b86c_image.png)
+![4](https://hc-cdn.hel1.your-objectstorage.com/s/v3/671f9b3633aa71c803203346f64b0f21133dbc76_image.png)
+![5](https://hc-cdn.hel1.your-objectstorage.com/s/v3/bc95b00a66dd2c5c59beaff2ab39f7e6b46e3c48_image.png)
+![6](https://hc-cdn.hel1.your-objectstorage.com/s/v3/46da2e9892e47ca6a85e416071950a7f9ccaf7a7_image.png)
+
+
+
+
+
+
 Parts:
 
 | Part | Qty | total | link |
