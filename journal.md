@@ -121,5 +121,5 @@ Parts:
 | xc1 hotend | 1 | 2 | [Ali](https://pl.aliexpress.com/item/1005007319888761.html)
 | jumper cables (m2m & f2f & m2f) | 40 each | 8 | [Botland](https://botland.com.pl/przewody-polaczeniowe-zensko-meskie/19621-zestaw-przewodow-polaczeniowych-justpi-zensko-meskie-20cm-40szt-5903351243025.html) note: after customs aliexpress is actually more expensive + m2m and f2f connectors cost the same - ~2.5$)
 | endstop switches | 3 | 4 | ![ali](https://pl.aliexpress.com/item/1005008640444653.html?aem_p4p_detail=202507301707192219225324436200002745373&algo_exp_id=9b59729d-3d9c-4253-85cd-cfaa75983ca0-1&pdp_ext_f=%7B%22order%22%3A%2221%22%2C%22eval%22%3A%221%22%7D&pdp_npi=4%40dis!USD!3.83!3.83!!!27.34!27.34!%402101ec1f17539204388924775e059e!12000046058656660!sea!PL!6049391261!X&curPageLogUid=3gTfpksfMGAi&utparam-url=scene%3Asearch%7Cquery_from%3A&search_p4p_id=202507301707192219225324436200002745373_2#nav-specification)  
-| pcb | 1 | n/d | [jlcpcb](https://jlcpcb.com/)
+| pcb | 1 | 50 | [jlcpcb](https://jlcpcb.com/)
 
