@@ -81,7 +81,10 @@ On the other side, i completely revamped the printbet, now its more stable, slim
 ![5](https://hc-cdn.hel1.your-objectstorage.com/s/v3/bc95b00a66dd2c5c59beaff2ab39f7e6b46e3c48_image.png)
 ![6](https://hc-cdn.hel1.your-objectstorage.com/s/v3/46da2e9892e47ca6a85e416071950a7f9ccaf7a7_image.png)
 
-# Day 16
+# Day 16 (31.07.2025) ~5 hours
+The first part of making this (the schematic and wiring leds) was a pain, but wiring the heating pads was weirdly satisfying, like the slime videos xd. 
+The pixels are for pure decorational purposes, and the wiring was made to keep almost all of the printbed evenly heated, even if its asymetrical.
+![wire](https://hc-cdn.hel1.your-objectstorage.com/s/v3/c3b859b065e7a8952695bf7e0ae4d39f1dd2af72_image.png)
 
 
 
@@ -104,6 +107,7 @@ Parts:
 | bearing-uni | 4 | 5 | [Ali](https://modelemax.pl/en/bearings/19394-ball-bearing-8-24-8mm-628zz)
 | gantry_vslot | 2 | 18 | [Ali](https://pl.aliexpress.com/item/4000252044823.html?gatewayAdapt=glo2pol)
 | 4010 fan | 1 | 4 | [Ali](https://pl.aliexpress.com/item/1005003462239029.html?aem_p4p_detail=202507211504023798993448239120006157034&algo_exp_id=70593ec9-93e4-496f-9f99-32fa072602fd-1&pdp_ext_f=%7B%22order%22%3A%22406%22%2C%22eval%22%3A%221%22%7D&pdp_npi=4%40dis!USD!3.11!3.11!!!3.11!3.11!%402101d9ef17531354426868570e953a!12000032185228739!sea!PL!6049391261!X&curPageLogUid=K5zZeirITV9z&utparam-url=scene%3Asearch%7Cquery_from%3A&search_p4p_id=202507211504023798993448239120006157034_2)
+| sliding rod + bearing + block | 1 | 23 | [ali](https://pl.aliexpress.com/item/1005008652129288.html?algo_exp_id=d15deff8-97a7-4b1d-8c03-ac14bc7d8eb5-7&pdp_ext_f=%7B%22order%22%3A%223%22%2C%22eval%22%3A%221%22%7D&pdp_npi=4%40dis!USD!28.32!23.18!!!202.15!165.46!%402103146f17539198961418090e23b2!12000046154440635!sea!PL!6049391261!X&curPageLogUid=Noaz1fs3UIMJ&utparam-url=scene%3Asearch%7Cquery_from%3A)
 | m4 screws+nuts | 36 | 8 | local_shop
 | m3 screws+nuts | 25 | 8 | local_shop
 | m2 wcrews+nutss | 4 | 1 | local_shop
