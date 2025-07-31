@@ -81,7 +81,7 @@ On the other side, i completely revamped the printbet, now its more stable, slim
 ![5](https://hc-cdn.hel1.your-objectstorage.com/s/v3/bc95b00a66dd2c5c59beaff2ab39f7e6b46e3c48_image.png)
 ![6](https://hc-cdn.hel1.your-objectstorage.com/s/v3/46da2e9892e47ca6a85e416071950a7f9ccaf7a7_image.png)
 
-# Day 16 (31.07.2025) ~5 hours
+# Day 16 (31.07.2025) ~8 hours
 The first part of making this (the schematic and wiring leds) was a pain, but wiring the heating pads was weirdly satisfying, like the slime videos xd. 
 The pixels are for pure decorational purposes, and the wiring was made to keep almost all of the printbed evenly heated, even if its asymetrical.
 ![wire](https://hc-cdn.hel1.your-objectstorage.com/s/v3/c3b859b065e7a8952695bf7e0ae4d39f1dd2af72_image.png)
@@ -114,9 +114,12 @@ Parts:
 | m2.5 screw | 2 | 1 | local_shop
 | m5 screws+nuts | 35 | 4 | local_shop
 | m8 screws+nuts | 5 | 4 | local_shop
+| B57560G1104F000 thermistor | 2 | 8 | [mouser](https://eu.mouser.com/ProductDetail/EPCOS-TDK/B57560G1104F000?qs=%2FsLciWRBLmAyaJsNOAuWiw%3D%3D)
+| leds4printbed | 75 | 15 | [piekarz🔥](https://www.piekarz.pl/37911-dioda-led-worldsemi-ws2812b-v4/)
 | gt2 belt | 1 | 8 | [Ali](https://www.aliexpress.us/item/10000115962505.html?algo_exp_id=3e07768a-d464-400f-8013-e23772bbed3e-1&pdp_ext_f=%7B%22order%22%3A%2231%22%2C%22eval%22%3A%221%22%7D&pdp_npi=4%40dis!USD!11.41!11.41!!!11.41!11.41!%402101c5bf17531364982723715eb8ce!12000025023391194!sea!PL!6049391261!X&curPageLogUid=kVrNqzgCRbOD&utparam-url=scene%3Asearch%7Cquery_from%3A)
 | nutblock | 2 | 6 | [Ali](https://pl.aliexpress.com/item/1005004033091930.html?aem_p4p_detail=2025072115104714766776210775120006156124&algo_exp_id=6acb0970-a436-473f-83ce-022215f6bc8f-5&pdp_ext_f=%7B%22order%22%3A%2230%22%2C%22eval%22%3A%221%22%7D&pdp_npi=4%40dis!USD!2.58!2.58!!!18.45!18.45!%402103247417531358475558797efead!12000027807086483!sea!PL!6049391261!X&curPageLogUid=3HUxqKNu2SHZ&utparam-url=scene%3Asearch%7Cquery_from%3A&search_p4p_id=2025072115104714766776210775120006156124_6) 
 | xc1 hotend | 1 | 2 | [Ali](https://pl.aliexpress.com/item/1005007319888761.html)
 | jumper cables (m2m & f2f & m2f) | 40 each | 8 | [Botland](https://botland.com.pl/przewody-polaczeniowe-zensko-meskie/19621-zestaw-przewodow-polaczeniowych-justpi-zensko-meskie-20cm-40szt-5903351243025.html) note: after customs aliexpress is actually more expensive + m2m and f2f connectors cost the same - ~2.5$)
+| endstop switches | 3 | 4 | ![ali](https://pl.aliexpress.com/item/1005008640444653.html?aem_p4p_detail=202507301707192219225324436200002745373&algo_exp_id=9b59729d-3d9c-4253-85cd-cfaa75983ca0-1&pdp_ext_f=%7B%22order%22%3A%2221%22%2C%22eval%22%3A%221%22%7D&pdp_npi=4%40dis!USD!3.83!3.83!!!27.34!27.34!%402101ec1f17539204388924775e059e!12000046058656660!sea!PL!6049391261!X&curPageLogUid=3gTfpksfMGAi&utparam-url=scene%3Asearch%7Cquery_from%3A&search_p4p_id=202507301707192219225324436200002745373_2#nav-specification)  
 | pcb | 1 | n/d | [jlcpcb](https://jlcpcb.com/)
 
