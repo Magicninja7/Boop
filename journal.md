@@ -81,12 +81,14 @@ On the other side, i completely revamped the printbet, now its more stable, slim
 ![5](https://hc-cdn.hel1.your-objectstorage.com/s/v3/bc95b00a66dd2c5c59beaff2ab39f7e6b46e3c48_image.png)
 ![6](https://hc-cdn.hel1.your-objectstorage.com/s/v3/46da2e9892e47ca6a85e416071950a7f9ccaf7a7_image.png)
 
-# Day 16 (31.07.2025) ~8 hours
+# Day 16 (30-31.07.2025) ~8 hours
 The first part of making this (the schematic and wiring leds) was a pain, but wiring the heating pads was weirdly satisfying, like the slime videos xd. 
 The pixels are for pure decorational purposes, and the wiring was made to keep almost all of the printbed evenly heated, even if its asymetrical.
 ![wire](https://hc-cdn.hel1.your-objectstorage.com/s/v3/c3b859b065e7a8952695bf7e0ae4d39f1dd2af72_image.png)
 
-
+# Day 17 (31.07.2025 the evening, not 3am like before :3) ~9 hours
+Turns out making reprap firmware at the last possible day wasn't the best idea, but thankfully i did my research and ytvideo watching earlier, so it went rather quick.
+![f this who even made this bs lang it makes no sense if it werent for tutorials id be fucked](https://hc-cdn.hel1.your-objectstorage.com/s/v3/2d184fb293a837e9ba87982a4346f096f5288890_image.png)
 
 
 Parts:
