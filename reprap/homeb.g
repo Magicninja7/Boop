@@ -1,4 +1,4 @@
-M400                  ; Wait for current moves to finish
+M400                  ; Wait for moves to finish
 M913 X50 B50          ; drop motor current
 M569 P1 V1            ; put driver 1 into stealth chop mode
 M569 P2 V1            ; put driver 2 into stealth chop mode
