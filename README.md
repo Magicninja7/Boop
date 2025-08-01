@@ -1,4 +1,4 @@
-Description: Its a polar, 4axis 3d printer! It uses a unorthodox aproach to rotate the hotend in b axis, and y axis, using only 2 motors and being pretty cool! The printbed is also backlit!! :3
+Description: Its a polar, 4axis, cantivileerian 3d printer! It uses a unorthodox aproach to rotate the hotend in b axis, and y axis, using only 2 motors and being pretty cool! The printbed is also backlit!! :3
 WHy? idk, felt like it tbh. Saw a cool video on yt, thought: i wanna do that. And then highway happened. And then this happened.
 
 ## Cad 
