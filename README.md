@@ -73,7 +73,7 @@ SKR3:
 
 ## Parts
 
-| Part | Qty | total | link |
+| Part | Qty | total$ | link |
 | ---- | --- | ----- | ---- |
 | sherpa mini | 1 | 34 | [Ali](https://pl.aliexpress.com/item/1005002487727392.html) |
 | vslot rail | 2 | 16 | [Ali](https://pl.aliexpress.com/i/1005003311298946.html?gatewayAdapt=glo2pol)
