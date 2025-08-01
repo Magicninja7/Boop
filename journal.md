@@ -1,6 +1,8 @@
 This is a devlog for this 3d printer im making!
 (im keeping this casual)
 
+total time: 98.5 hours
+
 # Day 0 (24-25.05.25) ~15 hours
 Today i did research, setup fusion, and started making a scetch for the base!
 After that, i started making the polar mechanism itself, designing the gears and belt. Now if gear A (the small one) is spun, gear B spins too. On the left, seperated for now, is a part of the printbed and elemesnts allowing it to spin (atleast they will in the future).
