@@ -75,10 +75,10 @@ SKR3:
 
 | Part | Qty | total$ | link |
 | ---- | --- | ----- | ---- |
-| sherpa mini | 1 | 34 | [Ali](https://pl.aliexpress.com/item/1005002487727392.html) |
+| sherpa mini | 1 | 24 | [Ali]([https://pl.aliexpress.com/item/1005002487727392.html](https://pl.aliexpress.com/item/1005002487727392.html?gatewayAdapt=glo2pol)) |
 | vslot rail | 2 | 16 | [Ali](https://pl.aliexpress.com/i/1005003311298946.html?gatewayAdapt=glo2pol)
-| nema17+screw | 1 | 50 | [Ali](https://www.aliexpress.us/item/1005005575285492.html?mp=1&gatewayAdapt=glo2usa)
-| nema17 | 3 | 44 | [Ali](https://www.aliexpress.us/item/1005007721263858.html?algo_exp_id=2c44caf6-5f1d-4c0f-b662-e554663c4572-0&pdp_ext_f=%7B%22order%22%3A%2224%22%2C%22eval%22%3A%221%22%7D&pdp_npi=4%40dis!USD!14.67!14.67!!!14.67!14.67!%40211b653717531339946814128ed723!12000041973125480!sea!PL!6049391261!X&curPageLogUid=ditWgogbyW23&utparam-url=scene%3Asearch%7Cquery_from%3A)
+| nema17+screw | 2 | 20 | [Ali]([https://www.aliexpress.us/item/1005005575285492.html?mp=1&gatewayAdapt=glo2usa](https://pl.aliexpress.com/item/1005007426592105.html?algo_exp_id=d4f99488-a359-4cc0-aea8-116da59cf138-8&pdp_ext_f=%7B%22order%22%3A%224%22%2C%22eval%22%3A%221%22%7D&pdp_npi=4%40dis!USD!10.46!10.46!!!10.46!10.46!%40211b441e17540107414063539ecc76!12000040714239435!sea!PL!6049391261!X&curPageLogUid=FYGczgJ1ZQe4&utparam-url=scene%3Asearch%7Cquery_from%3A))
+| nema17 | 3 | 15 | [Ali](https://pl.aliexpress.com/item/1005003874936862.html?algo_exp_id=3ed336f1-a880-4dbb-8a6d-b39768883712-2&pdp_ext_f=%7B%22order%22%3A%222105%22%2C%22eval%22%3A%221%22%7D&pdp_npi=4%40dis!USD!5.93!5.64!!!5.93!5.64!%402103956b17540107983124197e982d!12000036219123370!sea!PL!6049391261!X&curPageLogUid=upzex6yVWPUB&utparam-url=scene%3Asearch%7Cquery_from%3A)
 | skr3+drivers | 1 | 77 | [Ali](https://www.aliexpress.com/item/1005007540045155.html?algo_exp_id=db2c2344-aa37-43bd-b1af-e7c3de7a9108-0&pdp_ext_f=%7B%22order%22%3A%22145%22%2C%22eval%22%3A%221%22%2C%22orig_sl_item_id%22%3A%221005007540045155%22%2C%22orig_item_id%22%3A%221005006043539516%22%7D&pdp_npi=4%40dis!USD!68.46!76.98!!!489.02!549.81!%40211b804117531342587678427e9c93!12000041211841733!sea!PL!6049391261!X&curPageLogUid=EAQ1yuQyuRXg&utparam-url=scene%3Asearch%7Cquery_from%3A)
 | lrs-350-24 | 1 | 35 | [Ali](https://www.aliexpress.com/item/1005006104414563.html?algo_exp_id=ed786665-9417-44ed-91e2-d2bbe9810003-0&pdp_ext_f=%7B%22order%22%3A%22145%22%2C%22eval%22%3A%221%22%7D&pdp_npi=4%40dis!USD!35.47!35.47!!!253.36!253.36!%40211b628117531347833686697e80ff!12000035765142564!sea!PL!6049391261!X&curPageLogUid=mk6m5iFwq7MV&utparam-url=scene%3Asearch%7Cquery_from%3A)
 | pillow-bearing | 2 | 12 | [Ali](https://pl.aliexpress.com/item/1005008115694493.html?aem_p4p_detail=202507081114222547105643252920009348574&algo_exp_id=7769a70f-dea9-412a-9511-ebeb2c50ad36-0&pdp_ext_f=%7B%22order%22%3A%22-1%22%2C%22eval%22%3A%221%22%7D&pdp_npi=4%40dis!PLN!43.90!22.39!!!84.80!43.25!%402103985c17519984621601810e1f54!12000043851029398!sea!PL!0!ABX&curPageLogUid=DwaALHE42JiJ&utparam-url=scene%3Asearch%7Cquery_from%3A&search_p4p_id=202507081114222547105643252920009348574_1)
@@ -104,4 +104,10 @@ SKR3:
 | xc1 hotend | 1 | 2 | [Ali](https://pl.aliexpress.com/item/1005007319888761.html)
 | jumper cables (m2m & f2f & m2f) | 40 each | 8 | [Botland](https://botland.com.pl/przewody-polaczeniowe-zensko-meskie/19621-zestaw-przewodow-polaczeniowych-justpi-zensko-meskie-20cm-40szt-5903351243025.html) note: after customs aliexpress is actually more expensive + m2m and f2f connectors cost the same - ~2.5$)
 | endstop switches | 3 | 4 | ![ali](https://pl.aliexpress.com/item/1005008640444653.html?aem_p4p_detail=202507301707192219225324436200002745373&algo_exp_id=9b59729d-3d9c-4253-85cd-cfaa75983ca0-1&pdp_ext_f=%7B%22order%22%3A%2221%22%2C%22eval%22%3A%221%22%7D&pdp_npi=4%40dis!USD!3.83!3.83!!!27.34!27.34!%402101ec1f17539204388924775e059e!12000046058656660!sea!PL!6049391261!X&curPageLogUid=3gTfpksfMGAi&utparam-url=scene%3Asearch%7Cquery_from%3A&search_p4p_id=202507301707192219225324436200002745373_2#nav-specification)  
-| pcb | 1 | 50 | [jlcpcb](https://jlcpcb.com/)
+| pcb | 1 | 20 | [jlcpcb](https://jlcpcb.com/)
+
+holy fuck 
+its actually exactly 350$ 
+wtf
+nicee
+i though i was gonna pay from pocket
