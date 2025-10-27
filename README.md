@@ -75,7 +75,7 @@ SKR3:
 
 | Part | Qty | total$ | link |
 | ---- | --- | ----- | ---- |
-| sherpa mini | 1 | 24 | [Ali]([https://pl.aliexpress.com/item/1005002487727392.html](https://pl.aliexpress.com/item/1005002487727392.html?gatewayAdapt=glo2pol)) |
+| sherpa mini | 1 | 24 | [Ali](https://pl.aliexpress.com/item/1005002487727392.html?gatewayAdapt=glo2pol) |
 | vslot rail | 2 | 16 | [Ali](https://pl.aliexpress.com/i/1005003311298946.html?gatewayAdapt=glo2pol)
 | nema17+screw | 2 | 20 | [Ali]([https://www.aliexpress.us/item/1005005575285492.html?mp=1&gatewayAdapt=glo2usa](https://pl.aliexpress.com/item/1005007426592105.html?algo_exp_id=d4f99488-a359-4cc0-aea8-116da59cf138-8&pdp_ext_f=%7B%22order%22%3A%224%22%2C%22eval%22%3A%221%22%7D&pdp_npi=4%40dis!USD!10.46!10.46!!!10.46!10.46!%40211b441e17540107414063539ecc76!12000040714239435!sea!PL!6049391261!X&curPageLogUid=FYGczgJ1ZQe4&utparam-url=scene%3Asearch%7Cquery_from%3A))
 | nema17 | 3 | 15 | [Ali](https://pl.aliexpress.com/item/1005003874936862.html?algo_exp_id=3ed336f1-a880-4dbb-8a6d-b39768883712-2&pdp_ext_f=%7B%22order%22%3A%222105%22%2C%22eval%22%3A%221%22%7D&pdp_npi=4%40dis!USD!5.93!5.64!!!5.93!5.64!%402103956b17540107983124197e982d!12000036219123370!sea!PL!6049391261!X&curPageLogUid=upzex6yVWPUB&utparam-url=scene%3Asearch%7Cquery_from%3A)
